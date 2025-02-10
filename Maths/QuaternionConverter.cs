@@ -1,7 +1,7 @@
 
 using System;
 using System.Diagnostics;
-namespace TelemetryLibrary
+namespace Maths
 {
     [DebuggerDisplay("w:{w}, x:{x}, y:{y}, z:{z}")]
     public struct Quat

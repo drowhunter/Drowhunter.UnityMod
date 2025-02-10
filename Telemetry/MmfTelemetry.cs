@@ -6,7 +6,7 @@ using System.IO.MemoryMappedFiles;
 
 using System.Runtime.InteropServices;
 
-namespace TelemetryLib.Telemetry
+namespace Drowhunter.UnityMods.Telemetry
 {
     internal class MmfTelemetryConfig
     {

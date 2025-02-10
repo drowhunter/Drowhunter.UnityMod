@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 #endif
-namespace TelemetryLib.Telemetry
+namespace Drowhunter.UnityMods.Telemetry
 {
     internal interface ITelemetry<TData, TConfig> 
         where TData : struct 

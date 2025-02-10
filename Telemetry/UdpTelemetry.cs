@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 #endif
 
-namespace TelemetryLib.Telemetry
+namespace Drowhunter.UnityMods.Telemetry
 {
     internal class UdpTelemetryConfig
     {

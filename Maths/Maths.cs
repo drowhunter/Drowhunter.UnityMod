@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace TelemetryLibrary
+namespace Maths
 {
     internal class Maths
     {
